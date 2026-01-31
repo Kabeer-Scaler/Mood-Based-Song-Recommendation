@@ -7,7 +7,7 @@
 │   └── spotify_data.csv                  # Song dataset (114k tracks)
 ├── README.md                             # Project documentation
 
-
+```
 ## Dependencies
 The following Python libraries are required to run this project:
 
