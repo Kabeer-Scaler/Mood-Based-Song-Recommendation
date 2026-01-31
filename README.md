@@ -24,6 +24,7 @@ It is recommended to run this project in Google Colab for the best compatibility
 
 ### 2. Install Required Libraries
 Open the notebook and run the following command in the first cell to install the personalization engine:
+
 !pip install scikit-surprise
 
 ### 3. Upload the Dataset
