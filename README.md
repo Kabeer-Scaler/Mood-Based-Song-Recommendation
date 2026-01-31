@@ -3,8 +3,7 @@
 ## Folder Structure
 ```text
 ├── Mood_Based_Song_Recommendation.ipynb  # Main project notebook
-├── dataset/
-│   └── spotify_data.csv                  # Song dataset (114k tracks)
+├──  dataset.csv                  # Song dataset (114k tracks)
 ├── README.md                             # Project documentation
 
 ```
