@@ -1,11 +1,12 @@
 # Mood-Based-Song-Recommendation
 
 ## Folder Structure
+```text
 ├── Mood_Based_Song_Recommendation.ipynb  # Main project notebook
 ├── dataset/
 │   └── spotify_data.csv                  # Song dataset (114k tracks)
 ├── README.md                             # Project documentation
-└── requirements.txt                      # List of dependencies
+
 
 ## Dependencies
 The following Python libraries are required to run this project:
