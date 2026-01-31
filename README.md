@@ -43,4 +43,5 @@ Hybrid Function: Run the final cell to define the give_hybrid_recommendation fun
 
 ### 5. Generate Recommendations
 To get a recommendation, call the hybrid function with a user_id and a mood:
+
 give_hybrid_recommendation(user_id, mood)
